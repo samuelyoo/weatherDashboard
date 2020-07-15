@@ -30,7 +30,7 @@ demonstration will shown at below
 
 ## Sample
 
-![sample](assets/domo_weatherD.gif)
+![sample](assets/demo_weatherD.gif)
 
 
 ## Technologies
